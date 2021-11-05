@@ -1,0 +1,16 @@
+{
+  "name": "botml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "botml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "crypto": "^1.0.1",
+    "variations-stream": "^0.1.3"
+  }
+}
